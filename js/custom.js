@@ -131,7 +131,7 @@ $(function(){
     $(this).addClass("active");
   });
 
-  // Venobox Lightbox(modal box) plugin Code
-  $('.venobox').venobox();
+  // Venobox Lightbox(modal box) plugin Code 
+  $('.venobox').venobox(); 
 
 });

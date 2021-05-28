@@ -186,7 +186,7 @@
       </div>
     </section>
     <!-- End of Clients Section Area -->
-
+    
     <!-- Portfolio Section Area -->
     <section id="portfolio" class="section">
       <div class="center">
@@ -194,6 +194,7 @@
           <h2>Portfolio</h2>
           <p>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
         </div>
+
         <div class="filter-menu">
           <ul>
             <li data-filter = "*" class="active">All</li>
@@ -202,6 +203,7 @@
             <li data-filter = ".Web">Web</li>
           </ul>
         </div>
+
         <div class="portfolio-container">
           <div class="portfolio-item App">
             <div class="port-wrap">
@@ -214,7 +216,7 @@
                 <div class="link-btns">
                   <a href="img/portfolio/1.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div> 
           </div>
@@ -229,7 +231,7 @@
                 <div class="link-btns">
                   <a href="img/portfolio/2.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -242,9 +244,9 @@
                   <p>Website</p>
                 </div>
                 <div class="link-btns">
-                  <a href="img/portfolio/3.jp" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
+                  <a href="img/portfolio/3.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -259,7 +261,7 @@
                 <div class="link-btns">
                   <a href="img/portfolio/4.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -268,13 +270,13 @@
               <img src="img/portfolio/5.jpg" alt="">
               <div class="port-info">
                 <div class="port-tit">
-                  <h4>Card 2</h4>
+                  <h4>Card 1</h4>
                   <p>Card</p>
                 </div>
                 <div class="link-btns">
                   <a href="img/portfolio/5.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -283,13 +285,13 @@
               <img src="img/portfolio/6.jpg" alt="">
               <div class="port-info">
                 <div class="port-tit">
-                  <h4>Web 3</h4>
+                  <h4>Web 2</h4>
                   <p>Website</p>
                 </div>
                 <div class="link-btns">
                   <a href="img/portfolio/6.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -304,7 +306,7 @@
                 <div class="link-btns">
                   <a href="img/portfolio/7.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -314,12 +316,12 @@
               <div class="port-info">
                 <div class="port-tit">
                   <h4>Card 3</h4>
-                  <p>Card</p>
+                  <p>Application</p>
                 </div>
                 <div class="link-btns">
-                  <a href="img/portfolio/8.jp" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
+                  <a href="img/portfolio/8.jpg" class="venobox" data-gall="myGallery"><i class="bx bx-plus"></i></a>
                   <a href="#"><i class="bx bx-link"></i></a>
-                </div>
+                </div>                
               </div>
             </div>
           </div>
@@ -335,9 +337,11 @@
           <h2>Contact Me</h2>
           <p>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
         </div>
+
         <div class="map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2438913.727722391!2d105.26404327181837!3d53.347701064604124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5dab7dedcf8dd873%3A0xf2489412c5853349!2z67CU7J207Lm8IO2YuA!5e0!3m2!1sko!2skr!4v1621839824790!5m2!1sko!2skr"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576415.7565981138!2d109.27140964429432!3d55.64335414842469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5c51f0f199a08f21%3A0x9432e6abd56a68be!2z0KTRgNC-0LvQuNGF0LjQvdGB0LrQuNC5INCz0L7RgdGD0LTQsNGA0YHRgtCy0LXQvdC90YvQuSDQv9GA0LjRgNC-0LTQvdGL0Lkg0LfQsNC60LDQt9C90LjQug!5e0!3m2!1sko!2skr!4v1621839809838!5m2!1sko!2skr"></iframe>
         </div>
+
         <div class="form-area">
           <form action="/reveal/php/insert_msg.php" method="post" name="form_data">
             <p class="name-email">
@@ -348,7 +352,7 @@
               <input type="text" name="subject" placeholder="Write Subject">
             </p>
             <p class="message">
-              <textarea name="message" placeholder="Your Message Here"></textarea>
+              <textarea name="message" placeholder="Your Messages Here..."></textarea>
             </p>
             <p class="send-btn">
               <button>SEND MESSAGE</button>
@@ -362,44 +366,45 @@
     <section id="recieved" class="section">
       <div class="center">
         <div class="section-title">
-              <h2>Contact Me</h2>
-              <p>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+          <h2>Messages Recieved</h2>
+          <p>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
         </div>
+
+        <ul class="msg-table">
+          <li class="msg-tit">
+            <span>글쓴이</span>
+            <span>이메일</span>
+            <span>제목</span>
+            <span>등록일</span>
+          </li>
+          <?php
+            include_once $_SERVER['DOCUMENT_ROOT']."/reveal/php/connect.php"; //$db_conn
+            $sql = "SELECT * FROM re_message ORDER BY RE_idx DESC";
+
+            $msg_result = mysqli_query($db_conn, $sql);
+            
+            while($row = mysqli_fetch_array($msg_result)){
+              $name = $row['RE_name'];
+              $email = $row['RE_email'];
+              $subject = $row['RE_subject'];
+              $regist = $row['RE_reg'];
+              //echo $name;
+          ?>
+          <li class="msg-con">
+            <span><?=$name?></span>
+            <span><?=$email?></span>
+            <span><?=$subject?></span>
+            <span><?=$regist?></span>
+          </li>
+          <?php
+            }
+          ?>
+        </ul>
       </div>
-      <ul class="msg-table">
-        <li class="msg-tit">
-          <span>글쓴이</span>
-          <span>이메일</span>
-          <span>제목</span>
-          <span>등록일</span>
-        </li>
-        <?php
-          include_once $_SERVER['DOCUMENT_ROOT']."/reveal/php/connect.php"; //$db_conn
-          $sql = "SELECT * FROM re_message ORDER BY RE_idx DESC";
-
-          $msg_result = mysqli_query($db_conn, $sql);
-
-          while($row = mysqli_fetch_array($msg_result)){
-            $name = $row['RE_name'];
-            $email = $row['RE_email'];
-            $subject = $row['RE_subject'];
-            $regist = $row['RE_reg'];
-            //echo $name;
-        ?>
-        <li class="msg-con">
-          <span><?=$name?></span>
-          <span><?=$email?></span>
-          <span><?=$subject?></span>
-          <span><?=$regist?></span>
-        </li>
-        <?php
-          }
-        ?>
-      </ul>
     </section>
 
     <footer>
-      <p>Project Mong Design All RIght Reserved</p>
+      <p>Project Mong Design All Right Reserved.</p>
     </footer>
 
   </div>
